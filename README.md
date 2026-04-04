@@ -29,7 +29,7 @@ I am a **Backend Developer** and **Electronics Engineering** enthusiast. I bridg
 
 ---
 
-### Featured Projects
+### 📂 Featured Projects
 - **PeakFinance:** A full-stack financial app with transaction logging and JWT middleware.
 - **IoT Trainer Kit:** A hardware-software simulator for learning sensor integration and embedded systems.
 - **WA-Bot Service:** A Node.js-based WhatsApp bot utilizing webhooks and pairing codes.
