@@ -48,5 +48,6 @@ I'm always open to collaborating on interesting projects or discussing backend a
 ---
 
 ### 📊 Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VARR-git&show_icons=true&theme=radical)
+![VARR's GitHub Stats](https://github-readme-stats.vercel.app/api?username=VARR-git&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VARR-git&layout=compact&theme=radical)
