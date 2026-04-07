@@ -44,3 +44,5 @@ I'm always open to collaborating on interesting projects or discussing backend a
 - **LinkedIn:** https://www.linkedin.com/in/muhammad-riva-nugraha/
 - **Instagram:** @skyvar.r
 - **Discord:** skyvarr
+
+### 📊 WakaTime Weekly Metrics
