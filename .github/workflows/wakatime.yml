@@ -1,0 +1,21 @@
+name: Waka Readme
+
+on:
+  schedule:
+    # Berjalan otomatis setiap hari jam 00:00
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Memungkinkan kamu menjalankan manual kapan saja
+
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: 📋
+          TIME_RANGE: last_7_days
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: false
