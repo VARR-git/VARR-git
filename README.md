@@ -45,4 +45,5 @@ I'm always open to collaborating on interesting projects or discussing backend a
 - **Instagram:** @skyvar.r
 - **Discord:** skyvarr
 
-### 📊 Weekly Coding Metrics
+### 📊 Weekly Coding Activity
+![WakaTime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=VARR-git&theme=tokyonight&layout=compact)
