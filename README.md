@@ -45,4 +45,4 @@ I'm always open to collaborating on interesting projects or discussing backend a
 - **Instagram:** @skyvar.r
 - **Discord:** skyvarr
 
-### 📊 WakaTime Weekly Metrics
+### 📊 My WakaTime Stats
