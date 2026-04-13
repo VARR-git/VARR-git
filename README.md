@@ -15,7 +15,7 @@ I am a **Backend Developer** and **Electronics Engineering** enthusiast. I bridg
 ### 🛠️ Tech Stack & Tools
 
 #### **Software Development**
-[![My Skills](https://skillicons.dev/icons?i=js,go,python,github,postman,arduino,raspberrypi,nodejs,mysql,postgres)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,go,python,github,postman,arduino,raspberrypi,nodejs,mysql,postgres)
 
 #### **Electronics & IoT**
 - **Hardware:** ESP32, RFID, Environmental Sensors
