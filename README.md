@@ -15,12 +15,7 @@ I am a **Backend Developer** and **Electronics Engineering** enthusiast. I bridg
 ### 🛠️ Tech Stack & Tools
 
 #### **Software Development**
-- **Languages:** Go, Node.js (JavaScript/TypeScript)
-- **Frameworks:** Express.js, EJS
-- **Databases:** MySQL, PostgreSQL
-- **DevOps:** Docker, Webhooks integration
-- **Authentication:** JWT (JSON Web Tokens)
-- **Frontend/UI:** Tailwind CSS
+[![My Skills](https://skillicons.dev/icons?i=js,go,python,github,postman,arduino,raspberrypi,nodejs,mysql,postgres)](https://skillicons.dev)
 
 #### **Electronics & IoT**
 - **Hardware:** ESP32, RFID, Environmental Sensors
@@ -40,10 +35,10 @@ I am a **Backend Developer** and **Electronics Engineering** enthusiast. I bridg
 ### 📬 How to Reach Me
 I'm always open to collaborating on interesting projects or discussing backend architecture.
 
-- **Email:** rivanugraha89@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/muhammad-riva-nugraha/
-- **Instagram:** @skyvar.r
-- **Discord:** skyvarr
+[![Mail Badge](https://img.shields.io/badge/-rivanugraha89@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:rivanugraha89@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-muhammad_riva_nugraha-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-riva-nugraha/) 
+[![Instagram Badge](https://img.shields.io/badge/-@skyvar.r__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/skyvar.r)
+[![](https://komarev.com/ghpvc/?username=VARR-git&color=blue&label=Profile%20Views)](https://github.com/VARR-git/VARR-git)
 
 ### 📊 Weekly Coding Activity
 ![WakaTime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=VARR-git&theme=tokyonight&layout=compact)
