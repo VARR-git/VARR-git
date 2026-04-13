@@ -37,7 +37,7 @@ I'm always open to collaborating on interesting projects or discussing backend a
 
 [![Mail Badge](https://img.shields.io/badge/-rivanugraha89@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:rivanugraha89@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-muhammad_riva_nugraha-0284c7?style=flat&labelColor=0284c7&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-riva-nugraha/) 
-[![Instagram Badge](https://img.shields.io/badge/-@skyvar.r__-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/skyvar.r)
+[![Instagram Badge](https://img.shields.io/badge/-@skyvar.r-c026d3?style=flat&labelColor=c026d3&logo=instagram&logoColor=white)](https://instagram.com/skyvar.r)
 [![](https://komarev.com/ghpvc/?username=VARR-git&color=blue&label=Profile%20Views)](https://github.com/VARR-git/VARR-git)
 
 ### 📊 Weekly Coding Activity
