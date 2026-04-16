@@ -41,4 +41,4 @@ I'm always open to collaborating on interesting projects or discussing backend a
 [![](https://komarev.com/ghpvc/?username=VARR-git&color=blue&label=Profile%20Views)](https://github.com/VARR-git/VARR-git)
 
 ### 📊 Weekly Coding Activity
-![WakaTime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=VARR-git&theme=tokyonight&layout=compact)
+![WakaTime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=VARR&theme=tokyonight&layout=compact)
