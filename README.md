@@ -41,4 +41,8 @@ I'm always open to collaborating on interesting projects or discussing backend a
 [![](https://komarev.com/ghpvc/?username=VARR-git&color=blue&label=Profile%20Views)](https://github.com/VARR-git/VARR-git)
 
 ### 📊 Weekly Coding Activity
-![WakaTime Stat](https://github-readme-stats.vercel.app/api/wakatime?username=VARR&theme=tokyonight&layout=compact&v=1)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=VARR-git&theme=maroongold&show_icons=true&)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VARR-git&card_width=495&langs_count=7&layout=compact&theme=maroongold)
+
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VARR&langs_count=7&layout=compact&theme=maroongold)
