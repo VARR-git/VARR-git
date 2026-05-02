@@ -7,7 +7,6 @@ I am a **Backend Developer** and **Electronics Engineering** enthusiast. I bridg
 ### 🚀 About Me
 - Currently a student at a **Mitra Industri MM2100 Vocational High School (SMKS)**, focusing on real-world technical implementation.
 - Passionate about **Electronics Engineering**, **Backend Architecture**, **System Design**, and **IoT Ecosystems**.
-- Currently learning **Japanese** to expand my global perspective and technical reach.
 - Currently focusing on **LKS Electronics**, an electronics competition at High School Level.
 
 ---
